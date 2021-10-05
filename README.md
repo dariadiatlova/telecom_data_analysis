@@ -1,1 +1,1 @@
-# telecom_data_analysis
+Repository consists of the notebook with the hometask workflof.
